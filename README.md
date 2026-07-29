@@ -1,1 +1,1 @@
-This code was made as a hobby, and should not be tampered with in any way. Instead, you should edit 'Stereotypical RPG Game copy.py' to be able to compare the two.
+This code was made as a hobby, and should not be tampered with in any way. Instead, you should edit 'Stereotypical RPG Game copy.py' to be able to compare the two. Also, this code will add a file "player.json", this is usual, and should not be considered dangerous in any way. This is only you player's save file.
